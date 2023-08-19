@@ -1,1 +1,3 @@
 noi dung C
+
+cập nhật trên myProject folder
