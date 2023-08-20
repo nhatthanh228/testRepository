@@ -2,4 +2,8 @@ noi dung C
 
 cập nhật trên myProject folder
 
+<<<<<<< HEAD
 đây là phần cập nhật từ myProject
+=======
+đây là phần cập nhật từ testRepository
+>>>>>>> 489eab37a039dc6f82852341b87d2313acc71653
